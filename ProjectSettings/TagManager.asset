@@ -1,0 +1,107 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - NextText
+  - menu
+  - MoneyImage
+  - BackCamera
+  - NoWay
+  - N
+  - P
+  - Money
+  - Next
+  - Engine
+  - D
+  - levelImage2
+  - GasSag
+  - Canvas
+  - BrakeSag
+  - ArkaCamera
+  - Minute
+  - yer1
+  - AgainText
+  - Again
+  - GBackCamera
+  - kilit2
+  - NoMoneyText
+  - levelImage
+  - BrakeSol
+  - GasSol
+  - levelImage3
+  - R
+  - Second
+  - ileri2
+  - geri2
+  - TimeCounter
+  - NextAgain
+  - Continue
+  - MoneyText
+  - MoneyTextImage
+  - CarGeriVites
+  - Teker1
+  - Teker2
+  - Car
+  - Teker4
+  - Teker3
+  - minimap
+  - Road3
+  - Road1
+  - Road2
+  - Road4
+  - Road5
+  - solok
+  - pok
+  - sagok
+  - Cars
+  - _6B
+  - _4B
+  - _2B
+  - _6F
+  - _4F
+  - _2F
+  - 0
+  - 1
+  - 2
+  - 3
+  - 4
+  - nokta
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 3
+  - Water
+  - UI
+  - Street
+  - minimap
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
